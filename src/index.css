@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(132, 205, 230);
+}
+
+.box {
+  background-color: rgb(233, 213, 213);
+  width: 450px;
+
+  border-radius: 17%;
+  margin: auto;
+  text-align: center;
+  margin-top: 90px;
+  height: 100px;
+}
